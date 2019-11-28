@@ -1,0 +1,45 @@
+Hero-content:
+
+# H1 page title with important bold class style.
+H3 page description. Both these should be used as meta data by default
+(link: #link1 text: Smooth Scroll)
+
+----
+
+Hero-image: home/bg-placeholder.jpg
+
+----
+
+Features-content:
+
+## H2 title for section “icon grid”
+H4 - 2 columns-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in sem mollis, vehicula nibh egestas, imperdiet orci. Nunc non gravida quam.
+
+Lorem ipsum dolor sit amet.
+
+----
+
+Projects-content:
+
+## H2 title for section “icon grid”
+H4 - 2 columns-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in sem mollis, vehicula nibh egestas, imperdiet orci. Nunc non gravida quam.
+
+Lorem ipsum dolor sit amet.
+
+----
+
+Text-content:
+
+#### H2 title for section named “text split”
+
+H4 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in sem mollis, vehicula nibh egestas, imperdiet orci. Nunc non gravida quam.
+
+Paragraph - Nulla facilisi. Praesent venenatis vitae nulla vitae imperdiet. Ut at nulla maximus, tempus nisi ut, pretium purus. Donec facilisis nunc sit amet ultricies egestas. Nulla enim nibh, lobortis quis ipsum vitae, cursus hendrerit libero.
+
+----
+
+Text-split-image: home/placeholder.jpg
+
+----
+
+Text: 

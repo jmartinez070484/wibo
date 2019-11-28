@@ -1,0 +1,57 @@
+footer {
+	min-height:76px;
+	background:#000;
+
+	.container {
+		.row {
+			.col-12 {
+				font-size:16px;
+				color:#FFF;
+				line-height:76px;
+
+				span {
+					float:left;
+				}
+
+				ul {
+					float:right;
+
+					li {
+						display:inline-block;
+						margin:0 0 0 20px;
+						float:left;
+
+						a {
+							color:#FFF;
+						}
+
+						&:first-child {
+							margin:0;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (max-width: 1024px){
+	footer {
+		padding-left:102px;
+		padding-right:102px;
+	}
+}
+
+@media only screen and (max-width: 768px){
+	footer {
+		padding-left:75px;
+		padding-right:75px;
+	}
+}
+
+@media only screen and (max-width: 600px){
+	footer {
+		padding-left:15px;
+		padding-right:15px;
+	}
+}

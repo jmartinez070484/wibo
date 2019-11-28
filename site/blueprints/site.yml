@@ -1,0 +1,95 @@
+title: Site
+tabs:
+
+  # content tab
+  content:
+    label: content
+    icon: text
+    sections:
+      pages:
+        type: pages
+        headline: Pages
+        template: 
+          - default
+          - home
+  # features tab
+  features:
+    label: Features
+    icon: star
+    sections:
+      features:
+        type: pages
+        headline: Features
+        template: 
+          - feature
+  # features tab
+  callouts:
+    label: Callouts
+    icon: wand
+    sections:
+      callouts:
+        type: pages
+        headline: Callouts
+        template: 
+          - callout
+
+  # projects tab
+  projects:
+    label: Projects
+    icon: document
+    sections:
+      projects:
+        type: pages
+        headline: Projects
+        template: 
+          - project
+
+  # site options tab
+  site_options:
+    label: Site Options
+    icon: cog
+    columns:
+
+      # main
+      left:
+        width: 1
+        sections:
+          site_options:
+            type: fields
+            fields:
+              section_seo:
+                label: SEO
+                type: headline 
+              seo_title:
+                label: Title
+                type: text
+              seo_description:
+                label: Description
+                type: text
+              section_other:
+                label: Other
+                type: headline 
+              footer_text:
+                label: Footer
+                type: text
+              link_facebook:
+                label: Facebook
+                type: text
+              link_linkedin:
+                label: LinkedIn
+                type: text
+              link_twitter:
+                label: Twitter
+                type: text
+              link_instagram:
+                label: Instagrarm
+                type: text
+              email_address:
+                label: Email
+                type: text
+              phone:
+                label: Phone
+                type: text
+              map_link:
+                label: Map Link
+                type: text

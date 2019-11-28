@@ -1,0 +1,49 @@
+title: Home
+preset: page
+icon: home
+pages: false
+fields:
+  title:
+    label: Title
+    type: title
+  section_hero:
+    label: Hero
+    type: headline    
+  hero_content:
+    label: Content
+    type: textarea
+    width: 1
+  hero_image:
+    label: Hero Image
+    type: files
+    min: 1
+    max: 1
+    width: 1
+  section_features:
+    label: Features
+    type: headline
+  features_content:
+    label: Content
+    type: textarea
+    width: 1
+  section_projects:
+    label: Projects
+    type: headline
+  projects_content:
+    label: Content
+    type: textarea
+    width: 1
+  section_text_split:
+    label: Text Split
+    type: headline
+  text_content:
+    label: Content
+    type: textarea
+    width: 1
+  text_split_image:
+    label: Image
+    type: files
+    min: 1
+    max: 1
+    width: 1
+    width: 1

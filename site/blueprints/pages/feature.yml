@@ -1,0 +1,10 @@
+title: Default Page
+preset: page
+pages: false
+files: false
+fields:
+  description:
+    label: Description
+    type: textarea
+    width: 1
+

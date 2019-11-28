@@ -1,0 +1,13 @@
+Title: Project 1
+
+----
+
+Description: H4 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in
+
+----
+
+Image: project-1/bg-placeholder.jpg
+
+----
+
+Text: 

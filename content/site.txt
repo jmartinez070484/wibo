@@ -1,0 +1,41 @@
+Title: Wibo
+
+----
+
+Seo-title: Wibo
+
+----
+
+Seo-description: This is a wibo site
+
+----
+
+Footer-text: H3 footer website description reminder
+
+----
+
+Link-facebook: #
+
+----
+
+Link-linkedin: #
+
+----
+
+Link-twitter: #
+
+----
+
+Link-instagram: #
+
+----
+
+Email-address: info@wibo.ca
+
+----
+
+Phone: 123-456-7890
+
+----
+
+Map-link: #
